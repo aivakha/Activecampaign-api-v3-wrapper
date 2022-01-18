@@ -1,5 +1,5 @@
 {
-    "name": "aivakha/activecampaign-api-v3-wrapper",
+    "name": "aivakha/activecampaign-wrapper-v3\n",
     "description": "Wrapper for ActiveCampaing API v3",
     "type": "library",
     "require": {
