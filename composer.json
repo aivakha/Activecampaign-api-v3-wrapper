@@ -1,0 +1,24 @@
+{
+    "name": "aivakha/activecampaign-api-v3-wrapper",
+    "description": "Wrapper for ActiveCampaing API v3",
+    "type": "library",
+    "require": {
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Ivakha",
+            "email": "alexivakha@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "ActiveCampaign\\": "src/",
+        "GuzzleHttp\\": "src/"
+      }
+    }
+}
